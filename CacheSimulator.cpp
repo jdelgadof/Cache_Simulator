@@ -16,7 +16,6 @@ void stats(Cache &c)
 	std::cout << "hits:" << hits << " misses: " << misses  << std::endl;
 }
 
-
 int _tmain(int argc, _TCHAR* argv[])
 {
 
@@ -47,6 +46,7 @@ int _tmain(int argc, _TCHAR* argv[])
 //                  L2 8-way, 6Mb, 15cycles, 0,004-->we will assume 64 bytes block size
 //                  main memory 160
 */
+
 //Intel Nehalem all calculation in cycles
     Memory mainMemory(107);
     Cache cacheL3( 39, 8*1024*1024, 64, 8, &mainMemory);
