@@ -1,0 +1,3 @@
+C:/Users/Jeferson/Documents/2024_Spring/Computer_Architecture/Assg_8/CacheSimulator/CacheSimulator/cmake-build-debug/CMakeFiles/CacheSimulator.dir
+C:/Users/Jeferson/Documents/2024_Spring/Computer_Architecture/Assg_8/CacheSimulator/CacheSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jeferson/Documents/2024_Spring/Computer_Architecture/Assg_8/CacheSimulator/CacheSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
