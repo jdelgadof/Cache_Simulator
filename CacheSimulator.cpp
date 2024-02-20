@@ -38,7 +38,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	Cache cacheL2(10, 8196, 16, 4, &mainMemory);
 	Cache cacheL1(4, 2048, 16, 2, &cacheL2);
 
-
 //Intel Penryn all calculation in cycles
     Memory mainMemory(160);
     Cache cacheL2(15, 6*1024*1024, 64, 8, &mainMemory);
